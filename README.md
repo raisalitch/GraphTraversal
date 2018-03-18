@@ -4,8 +4,8 @@ Received 9.5/10 marks.
 Traversal of a graph using breadth first search, depth first search, discovering all paths, and finding the shortest path.
 
 ## Documentation:
-- [report.pdf](https://github.com/raisalitch/GraphTraversal/blob/master/report.pdf)
 - [specification.pdf](https://github.com/raisalitch/GraphTraversal/blob/master/specification.pdf) (written by the University)
+- [report.pdf](https://github.com/raisalitch/GraphTraversal/blob/master/report.pdf) (written by Raisa)
 
 ## Files written by Raisa:
 ### C files:
